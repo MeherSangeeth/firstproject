@@ -9,3 +9,4 @@ lst=[1,2,3,4,5]
 sq_num(lst)
 do_num(lst)
 sq_num(lst)
+do_num(lst)
